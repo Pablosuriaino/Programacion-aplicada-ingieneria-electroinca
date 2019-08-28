@@ -1,1 +1,1 @@
-# Programacion-aplicada-ingieneria-electroinca
+# Programacion-aplicada-ingieneria-electronica
